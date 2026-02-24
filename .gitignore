@@ -22,3 +22,6 @@ __pycache__/
 # project
 others/
 data/
+
+# blog
+blog*.md
