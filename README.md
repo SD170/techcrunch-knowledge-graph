@@ -2,6 +2,8 @@
 
 LLM-extracted knowledge graph from TechCrunch articles (companies, rounds, investors, themes, evidence on every edge). Built as the graph layer for a future GraphRAG pipeline.
 
+**Write-up:** [I built a knowledge graph from last month’s TechCrunch startup articles. Here’s what it reveals.](https://medium.com/@duttasaswata7/i-built-a-knowledge-graph-from-last-months-techcrunch-startup-articles-here-s-what-it-reveals-afbaa3aff793)
+
 ## Setup
 
 ```bash
