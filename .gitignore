@@ -1,3 +1,5 @@
+.cursor/
+
 # venv
 venv/
 .venv/
@@ -25,3 +27,4 @@ data/
 
 # blog
 blog*.md
+blog*.txt

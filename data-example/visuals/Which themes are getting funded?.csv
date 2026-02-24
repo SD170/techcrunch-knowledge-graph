@@ -1,0 +1,34 @@
+theme,funding_count,companies
+AI,67,"[BrainCo, Sarvam, InScope, Adept AI Labs, Anthropic, Applied Compute, Cresta, Daedalus, Kindo, Periodic Labs, Perplexity, Pilot, Safe Superintelligence, General Catalyst, Reload, Mirai, Freeform, Kana, Koyeb, Neo, Mesh Optical Technologies, Emergent, SpendRule, C2i Semiconductors, Neysa, Alta, Didero, Ever, Modal Labs, Glean, Meridian, Complyance, Flapping Airplanes, Vega Security, Hauler Hero, Smart Bricks, Primary Ventures, Databricks, Harvey, InfiniMind, Gather AI, Fundamental, Resolve AI, ElevenLabs, Fibr AI, Positron, Breakthrough Ventures, Carbon Robotics, Outtake, Cleanlab, Arcee AI, Redwood Materials, SpotDraft, Ricursive Intelligence, CVector, Humans&]"
+fintech,10,"[InScope, General Catalyst, Neo, Moment, Cherryrock Capital, Meridian, Primary Ventures, Duna, Lunar Energy]"
+healthcare,6,"[General Catalyst, Neo, SpendRule, Primary Ventures, Edenlux]"
+defense tech,5,"[Terra Industries, Harmattan AI, Northwood Space]"
+legal tech,4,[Harvey]
+robotics,3,"[Upside Robotics, Apptronik, Carbon Robotics]"
+energy storage,3,"[Lunar Energy, Redwood Materials]"
+cybersecurity,2,"[Vega Security, Aikido Security]"
+devtools,2,"[Entire, Arcee AI]"
+carbon removal,2,[Varaha]
+climate tech,2,[Varaha]
+sustainability,2,"[Breakthrough Ventures, PopWheels]"
+hard tech,2,[Northwood Space]
+space tech,2,[Northwood Space]
+HR,2,"[Deel, Rippling]"
+manufacturing,1,[Freeform]
+semiconductors,1,[C2i Semiconductors]
+fashion tech,1,[Alta]
+fusion energy,1,[Helion]
+electric vehicles,1,[Ever]
+climate,1,[Upside Robotics]
+agriculture,1,[Upside Robotics]
+defense,1,[Integrate]
+waste management,1,[Hauler Hero]
+proptech,1,[Smart Bricks]
+delivery,1,[Getir]
+aviation,1,[Skyryse]
+cloud optimization,1,[Cast AI]
+ESG software,1,[Osapiens]
+edtech,1,[Preply]
+autonomous vehicle,1,[Waabi]
+cloud security,1,[Upwind Security]
+industrial,1,[CVector]

@@ -1,0 +1,49 @@
+theme,company_count,companies
+AI,95,"[Particle, Granola, Humans&, CVector, Ricursive Intelligence, SpotDraft, Redwood Materials, Meta, Arcee AI, Cleanlab, Handshake, Outtake, Q.ai, Carbon Robotics, Breakthrough Ventures, Peak XV Partners, Luffu, Positron, Fibr AI, Traversal, Resolve AI, Gizmo, Fundamental, Fal.ai, ElevenLabs, Andreessen Horowitz, Reddit, Gather AI, InfiniMind, Harvey, Databricks, Primary Ventures, Smart Bricks, Hauler Hero, Vega Security, Flapping Airplanes, Complyance, Meridian, Monaco, Glean, Modal Labs, Ever, Didero, Alta, Coactive AI, Speedrun, OpenClaw, Neysa, C2i Semiconductors, SpendRule, Emergent, Mesh Optical Technologies, Worktrace, Thinking Machines Lab, StemAI, Safe Superintelligence, Prosper Robotics, Pilot, Periodic Labs, Living Carbon, Kindo, Eureka Labs, Daedalus, Cresta, Covariant, Applied Compute, Adept AI Labs, BrainCo, Gestala, NeuroXess, Anthropic, xAI, Google, OpenAI, Cursor, Harvey AI, Perplexity, OpenRouter, Replit, Lovable, Sarvam, InScope, General Catalyst, Neo, Nvidia, Read AI, Lucidya, Reload, Mirai, Apple, Qualcomm, Freeform, Kana, Mistral AI, Koyeb]"
+fintech,12,"[Sezzle, Base Power, Lunar Energy, Duna, Primary Ventures, Meridian, Score, Cherryrock Capital, Moment, Neo, General Catalyst, InScope]"
+healthcare,10,"[Edenlux, Once Upon a Farm, Luffu, Biograph, Primary Ventures, Vitable Health, SpendRule, Anterior, Neo, General Catalyst]"
+social media,7,"[Bluesky, UpScrolled, Snap, ByteDance, YouTube, Meta, Germ Network]"
+electric vehicles,8,"[Ever, ChargePoint, EVGo, Electrify America, Tesla, Canoo, Lucid Motors, Faraday Future]"
+robotics,4,"[Carbon Robotics, Figure AI, Apptronik, Upside Robotics]"
+blockchain,3,"[Ethereum, Solana, Base]"
+sustainability,4,"[PopWheels, By Rotation, HomeBoost, Breakthrough Ventures]"
+defense tech,3,"[Northwood Space, Harmattan AI, Terra Industries]"
+energy storage,3,"[Redwood Materials, Tesla, Lunar Energy]"
+brain-computer interface,2,"[Gestala, NeuroXess]"
+devtools,2,"[Arcee AI, Entire]"
+cybersecurity,2,"[Aikido Security, Vega Security]"
+climate,2,"[HomeBoost, Upside Robotics]"
+delivery,2,"[Getir, Uber]"
+medtech,2,"[Reema, Rorra]"
+HR,2,"[Rippling, Deel]"
+climate tech,1,[Varaha]
+software,1,[Veritas]
+manufacturing,1,[Freeform]
+semiconductors,1,[C2i Semiconductors]
+fashion tech,2,"[Alta, By Rotation]"
+dating,1,[Score]
+fusion energy,1,[Helion]
+agriculture,1,[Upside Robotics]
+defense,1,[Integrate]
+luxury goods,1,[Veritas]
+hardware,1,[Veritas]
+waste management,1,[Hauler Hero]
+proptech,1,[Smart Bricks]
+SaaS,1,[Databricks]
+adtech,1,[Reddit]
+Voice AI,1,[ElevenLabs]
+carbon removal,1,[Varaha]
+health,1,[Breakthrough Ventures]
+aviation,1,[Skyryse]
+HVAC,1,[Gradient]
+energy efficiency,1,[Gradient]
+consumer,1,[Breakthrough Ventures]
+cloud optimization,1,[Cast AI]
+ESG software,1,[Osapiens]
+edtech,1,[Preply]
+autonomous vehicle,1,[Waabi]
+cloud security,1,[Upwind Security]
+space tech,2,"[Northwood Space, Space Beyond]"
+hard tech,1,[Northwood Space]
+industrial,1,[CVector]
+legal tech,1,[Harvey]
